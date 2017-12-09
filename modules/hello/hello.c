@@ -1,7 +1,7 @@
 /*
  * a simple kernel module: hello
  *
- * Copyright (C) 2016 Wim Huang <@gmail.com>
+ * Copyright (C) 2016 Wim Huang <wimhwang@gmail.com>
  *
  * Licensed under GPLv2 or later.
  */
